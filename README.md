@@ -1,2 +1,6 @@
 # mascode.github.io
-Personal Site
+Personal site made with 
+
+- Python
+- Pelican
+- Atilla Theme
