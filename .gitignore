@@ -131,3 +131,4 @@ dmypy.json
 # Custom ignores
 pelican
 .vscode
+index2.html
